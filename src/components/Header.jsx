@@ -19,7 +19,7 @@ const Header = (props) => {
 	return (
 		<div className="flex  justify-evenly md:justify-between">
 			<div>
-				<p className="text-blue-700 font-bold">DevDetective</p>
+				<p className="text-blue-700 font-bold">Github Profile Finder</p>
 			</div>
 			<div className="flex gap-2 justify-center items-center">
 				<p
